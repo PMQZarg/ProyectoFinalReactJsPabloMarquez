@@ -9,7 +9,7 @@ import { collection, addDoc, updateDoc, doc } from "firebase/firestore";
 import { Link } from "react-router-dom";
 import Swal from "sweetalert2";
 
-const CheckoutOficial = () => {
+const CheckOutOficial = () => {
   const [userData, setUserData] = useState({
     name: "",
     phone: "",
@@ -84,4 +84,4 @@ const CheckoutOficial = () => {
   );
 };
 
-export default CheckoutOficial;
+export default CheckOutOficial;
