@@ -1,8 +1,8 @@
 import Cart from "../Components/Pages/cart/Cart";
 
 import CheckOutOficial from "../Components/Pages/checkOutOficial/CheckOutOficial";
-import ItemDetailContainer from "../components/pages/itemDetailContainer/ItemDetailContainer";
-import ItemListContainer from "../components/pages/itemListContainer/ItemListContainer";
+import ItemDetailContainer from "../Components/Pages/itemDetailContainer/ItemDetailContainer";
+import ItemListContainer from "../Components/Pages/itemListContainer/ItemListContainer";
 
 export const routes = [
     {
