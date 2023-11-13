@@ -1,0 +1,23 @@
+.containerFooter {
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(18, 6, 113);
+    align-items: center;
+    padding: 10px;
+    z-index: 1000;
+  }
+  
+  .redessociales {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    gap: 3px;
+  }
+  
+  .redessociales a {
+    text-decoration: none;
+  }
+  
+  
