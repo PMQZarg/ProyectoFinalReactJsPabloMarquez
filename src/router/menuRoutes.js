@@ -1,4 +1,4 @@
-import Cart from "../components/pages/cart/Cart";
+import Cart from "../Components/Pages/cart/Cart";
 
 import CheckOutOficial from "../components/pages/checkOutOficial/CheckOutOficial";
 import ItemDetailContainer from "../components/pages/itemDetailContainer/ItemDetailContainer";
