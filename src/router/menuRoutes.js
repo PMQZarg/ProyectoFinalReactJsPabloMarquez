@@ -1,6 +1,6 @@
 import Cart from "../Components/Pages/cart/Cart";
 
-import CheckOutOficial from "../components/pages/checkOutOficial/CheckOutOficial";
+import CheckOutOficial from "../Components/Pages/checkOutOficial/CheckOutOficial";
 import ItemDetailContainer from "../components/pages/itemDetailContainer/ItemDetailContainer";
 import ItemListContainer from "../components/pages/itemListContainer/ItemListContainer";
 
