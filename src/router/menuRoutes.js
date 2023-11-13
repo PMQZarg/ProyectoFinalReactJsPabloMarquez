@@ -8,7 +8,7 @@ export const routes = [
     {
         id: "home",
         path: "/" ,
-        Element: ItemListContainer  ,
+        Element: ItemListContainer  
     },
     {
         id: "category",
